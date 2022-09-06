@@ -4,7 +4,7 @@
 // 12821 -> да
 // 23432 -> да
 
-Console.Write("Введите 5 значное число :");
+Console.Write("Введите 5ти значное число :");
 int num = Convert.ToInt32(Console.ReadLine());
 
 int num1 = 0, num2 = 0, num3 = 0, num4 = 0, num5 = 0;
