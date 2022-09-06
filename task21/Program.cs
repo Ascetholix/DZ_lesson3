@@ -19,5 +19,5 @@ double zB = Convert.ToDouble(Console.ReadLine());
 
 double d = Math.Sqrt(Math.Pow((xA - xB), 2) + Math.Pow((yA - yB), 2) + Math.Pow(zA - zB, 2));
 
-Console.WriteLine("Растояние между координатами");
+Console.WriteLine("Растояние между координатами в 3D");
 Console.WriteLine($"X1={xA}, Y1={yA}, Z1={zA} и X2={xB}, Y2={yB}, Z2{zB} ---> {d}");
