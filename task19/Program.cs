@@ -11,7 +11,7 @@ int num1 = 0, num2 = 0, num3 = 0, num4 = 0, num5 = 0;
 int n = num;
 
 if (num > 9999 && num < 100000)
-{
+{                                //12345
     num1 = n % 10;    // 5
     n = n / 10;       //1234
     num2 = n % 10;    // 4
